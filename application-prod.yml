@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: my-app
+  profiles:
+    prod:
+      message: "Hello from production!"

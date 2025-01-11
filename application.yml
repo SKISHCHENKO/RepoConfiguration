@@ -1,8 +1,5 @@
+server:
+  port: 8080
 spring:
   application:
     name: my-app
-  profiles:
-    dev:
-      message: "Hello from development!"
-    prod:
-      message: "Hello from production!"
