@@ -1,0 +1,11 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: my-app
+  cloud:
+    config:
+      uri: http://localhost:8888
+      cache:
+        enabled: false
+  message: "Default message!"
