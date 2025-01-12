@@ -8,4 +8,4 @@ spring:
       uri: http://localhost:8888
       cache:
         enabled: false
-  message: "Default message!"
+  message: "Hello from development!"
